@@ -10,7 +10,7 @@ This application is using [React](https://reactjs.org/) for the frontend, [Netli
 1. Clone down the repository
 
     ```bash
-    git clone https://github.com/netlify/netlify-faunadb-example.git
+    git clone https://github.com/mujohn26/netlify-functions-faunadb.git
     ```
 
 2. Enter the repo directory
